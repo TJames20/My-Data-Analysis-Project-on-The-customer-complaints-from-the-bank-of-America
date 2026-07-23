@@ -4,8 +4,7 @@ This project analyzes customer complaint data using **Excel, SQL, Power BI, and 
 The goal was to understand complaint patterns, measure response efficiency, identify areas requiring improvement, and build an interactive dashboard that supports data-driven decision-making.
 
 **Disclaimer:** This project was completed for educational and portfolio purposes using a Bank of America customer complaints dataset. It is not an official Bank of America project.
-
-## Objectives
+# Objectives.
 - Analyze customer complaint trends over time.
 - Measure complaint response and resolution performance.
 - Identify the most common complaint categories.
