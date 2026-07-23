@@ -1,0 +1,87 @@
+### Customer Complaints Analysis Dashboard (Bank of America Dataset)
+### Project Overview
+This project analyzes customer complaint data using **Excel, SQL, Power BI, and Power Query** to uncover trends, evaluate response performance, and generate actionable business insights.
+The goal was to understand complaint patterns, measure response efficiency, identify areas requiring improvement, and build an interactive dashboard that supports data-driven decision-making.
+
+**Disclaimer:** This project was completed for educational and portfolio purposes using a Bank of America customer complaints dataset. It is not an official Bank of America project.
+
+## Objectives
+- Analyze customer complaint trends over time.
+- Measure complaint response and resolution performance.
+- Identify the most common complaint categories.
+- Monitor pending and overdue complaints.
+- Provide recommendations for improving customer service.
+
+## Tools Used
+
+- Microsoft Excel
+- Power Query
+- Power BI
+
+##  Project Workflow
+1. Data Collection
+2. Data Cleaning using Power Query
+3. Data Transformation
+5. Dashboard Development in Power BI
+6. Business Insight Generation
+
+## Dashboard Features
+The dashboard includes:
+- Total Complaints
+- Complaint Trend Analysis
+- Complaint Categories
+- Timely Response Rate
+- Late Response Rate
+- Pending Complaints
+- Resolution Status
+- Interactive Filters and Slicers
+
+##  Key Insights
+- Most customer complaints received timely responses.
+- A small percentage of complaints experienced delayed responses.
+- Some complaints remain pending and require immediate attention.
+- Certain complaint categories consistently generated higher complaint volumes.
+- Monthly complaint trends revealed periods of increased customer dissatisfaction.
+
+## Recommendations
+- Reduce pending complaints through proactive follow-up.
+- Improve response turnaround time for delayed complaints.
+- Monitor high-volume complaint categories more closely.
+- Automate alerts for unresolved complaints.
+- Use dashboard insights to improve customer experience.
+
+## Repository Structure
+ Customer Complaints Analysis
+├── Data/
+│   ├── Raw Dataset
+│   └── Cleaned Dataset
+│
+├── Power BI/
+│   └── Customer Complaints Dashboard.pbix
+│
+├── Images/
+│   └── Dashboard Screenshot.png
+│
+└── README.md
+
+##  Dashboard Preview
+
+> *(Upload your dashboard screenshot into an **Images** folder and replace the file name below.)*
+
+![Dashboard](Images/dashboard.png)
+
+##  Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Data Storytelling
+- Analytical Thinking
+
+##  Author
+**Theophilus James**
+
+Data Analyst | Excel | SQL | Power BI
+⭐ If you found this project interesting, feel free to star the repository.
