@@ -1,6 +1,7 @@
-### Customer Complaints Analysis Dashboard (Bank of America Dataset)
-### Project Overview
-This project analyzes customer complaint data using **Excel, SQL, Power BI, and Power Query** to uncover trends, evaluate response performance, and generate actionable business insights.
+## Customer Complaints Analysis Dashboard (Bank of America Dataset)
+
+## Project Overview
+This project analyzes customer complaint data using Excel, SQL, Power BI, and Power Query to uncover trends, evaluate response performance, and generate actionable business insights.
 The goal was to understand complaint patterns, measure response efficiency, identify areas requiring improvement, and build an interactive dashboard that supports data-driven decision-making.
 
 **Disclaimer:** This project was completed for educational and portfolio purposes using a Bank of America customer complaints dataset. It is not an official Bank of America project.
@@ -12,7 +13,6 @@ The goal was to understand complaint patterns, measure response efficiency, iden
 - Provide recommendations for improving customer service.
 
 ## Tools Used
-
 - Microsoft Excel
 - Power Query
 - Power BI
