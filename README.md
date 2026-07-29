@@ -136,6 +136,6 @@ Complaint volume consistently declined in the fourth quarter each year, which ma
 ---
 
 **Author:**
-James Theophilus Hussaini
-theophilusjames9@gmail.com
-Corporate Governance | Data Analytics | Power BI | Excel | AI for Business
+- James Theophilus Hussaini
+- theophilusjames9@gmail.com
+- | Data Analytics | Power BI | Excel | SQL
