@@ -78,8 +78,7 @@ This page provides a high-level view of:
 - How the company responds to complaints
 - Complaint distribution across states and submission channels
 
-![Customer Complaints Overview](dashboard_page1.png)
-
+<img width="1427" height="747" alt="Data" src="https://github.com/user-attachments/assets/6d5c180e-5c02-4e9a-907e-ff3355e0516e" />
 **Page 2 — Complaint Trends & Response Performance**
 This page dives deeper into:
 - Key response performance metrics
@@ -89,7 +88,8 @@ This page dives deeper into:
 - A product-response performance matrix
 - Interactive filtering options
 
-![Complaint Trends & Response Performance](dashboard_page2.png)
+![Complaint Trends & Response Perfor<img width="1328" height="743" alt="Bank of America Customer Compliant Dashboard 1" src="https://github.com/user-attachments/assets/6e8f1fdb-e7cd-4a8e-8d34-593f0d2a5af0" />
+mance](dashboard_page2.png)
 
 **Key Insights**
 
@@ -134,6 +134,7 @@ Complaint volume consistently declined in the fourth quarter each year, which ma
 
 ---
 
-**Prepared By:**
-Cordelia O. Jiakponna
+**Author:**
+James Theophilus Hussaini
+theophilusjames9@gmail.com
 Corporate Governance | Data Analytics | Power BI | Excel | AI for Business
