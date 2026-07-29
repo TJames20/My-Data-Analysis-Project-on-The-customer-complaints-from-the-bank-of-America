@@ -78,7 +78,8 @@ This page provides a high-level view of:
 - How the company responds to complaints
 - Complaint distribution across states and submission channels
 
-<img width="1328" height="743" alt="Bank of America Customer Compliant Dashboard 1" src="https://github.com/user-attachments/assets/bc63ceed-b3b7-47af-bedd-82428317b30e" />
+<img width="1328" height="743" alt="Bank of America Customer Compliant Dashboard 1" src="https://github.com/user-attachments/assets/bc63ceed-b3b7-47af-bedd-82428317b30e" <img width="1222" height="661" alt="1" src="https://github.com/user-attachments/assets/3ff49b96-f594-4946-9126-ed4e2d46ddb9" />
+/>
 
 **Page 2 — Complaint Trends & Response Performance**
 This page dives deeper into:
